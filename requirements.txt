@@ -1,0 +1,9 @@
+streamlit==1.24.0
+opencv-python==4.7.0.72
+numpy==1.23.5
+pandas==1.5.3
+python-vlc==3.0.18122
+spotipy==2.23.0
+fer==22.4.0
+tensorflow-macos==2.13.0
+tensorflow-metal==1.0.0 
